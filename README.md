@@ -89,8 +89,3 @@ This project demonstrates **end-to-end SQL-based cleaning, transformation, and i
 - **MySQL Workbench** – Query execution environment.
 
 ---
-
-## 📜 License
-This project is for educational purposes only.
-
----
